@@ -43,7 +43,7 @@ The program also makes use of the Zelle Graphics (graphics.py), math, time and r
 Modifications to the Button module:
 The parameter color has been added to the Button class, and it has also been stored as an instance variable self.color in the class definition. It allows us to define the color of the button which is important in a graphic-heavy game.
 
-	The .draw(gwin) and the .undraw() methods have also been added to this class to allow easier control over drawing (and activating) and undrawing (and deactivating) the “buttons” whenever required.
+The .draw(gwin) and the .undraw() methods have also been added to this class to allow easier control over drawing (and activating) and undrawing (and deactivating) the “buttons” whenever required.
 
 
 A glimpse at the obstacles and the future of Angry Camels:
