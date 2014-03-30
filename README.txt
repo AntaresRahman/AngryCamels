@@ -1,4 +1,6 @@
-Execute the file AngryCamels(executable).
+Runs with Python 3.2.5 or higher.
+Open file AngryCamels(executable).
+
 
 Angry Camels
 Momin Javed & Antares Rahman
